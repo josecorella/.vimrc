@@ -1,7 +1,7 @@
 ## My .vimrc configuration
 
 ### How to use this file
-- I use (vim-plug)[https://github.com/junegunn/vim-plug] as my vim plug in manager, you 
+- I use [vim-plug](https://github.com/junegunn/vim-plug) as my vim plug in manager, you 
 are more than welcome to use your own but I find this one to be quite easy to 
 maintain. Make sure you follow the instructions on how to set up vim-plug before
 actaully using this file. 
